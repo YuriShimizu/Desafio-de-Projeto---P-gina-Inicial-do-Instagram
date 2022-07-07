@@ -1,2 +1,3 @@
-# Desafio-de-Projeto---P-gina-Inicial-do-Instagram
-Desafio de Projeto recriando a página inicial do Instagram
+#Desafio de Projeto da DIO - Instagram :camera:
+
+Este é um desafio de projeto de recriar a página inicial do instagram utilizando html e css.
